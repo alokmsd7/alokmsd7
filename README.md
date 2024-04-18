@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer, Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ253ejFhNmJyeGl5bXZibXVucTZrOG1oNHJ5Y3A0OWl6MnQzOWxobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NodeJs,MongoDB,Express**
 
 - 📫 How to reach me **alokalok280@gmail.com**
 
