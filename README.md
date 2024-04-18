@@ -4,6 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 🌱 I’m currently learning **NodeJs,MongoDB,Express**
+  
+- 💬 Ask me about **React,JavaScript,C++**
 
 - 📫 How to reach me **alokalok280@gmail.com**
 
