@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **alokalok280@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/swpehr](https://rb.gy/zd8gg7]([https://rb.gy/swpehr](https://rb.gy/zd8gg7))
+- 📄 Know about my experiences https://rb.gy/zd8gg7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
