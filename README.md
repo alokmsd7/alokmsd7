@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **alokalok280@gmail.com**
 
-- 📄 Know about my experiences https://rb.gy/zd8gg7
+- 📄 Know about my experiences : https://shorturl.at/YCyid
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
